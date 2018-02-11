@@ -25,3 +25,8 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
 ## 分離するアルゴリズム
 シングルクラスSVMをsigmoidで２値判定かけてたときの重みとする  
 
+## すべての単語で分類する場合  
+<p align="center">
+  <img width="400px" src="https://user-images.githubusercontent.com/4949982/36071983-15c10dea-0f5b-11e8-8225-f8e8d82d08bf.png"> 
+  <img width="400px" src="https://user-images.githubusercontent.com/4949982/36071997-44ac0164-0f5b-11e8-8487-0ac085257bcb.png"> 
+</p>
