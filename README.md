@@ -30,3 +30,7 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
   <img width="400px" src="https://user-images.githubusercontent.com/4949982/36071983-15c10dea-0f5b-11e8-8225-f8e8d82d08bf.png"> 
   <img width="400px" src="https://user-images.githubusercontent.com/4949982/36071997-44ac0164-0f5b-11e8-8487-0ac085257bcb.png"> 
 </p>
+
+5chのベースとなる差別主義的な単語が目立ちますね  
+
+メンヘラ板で特有な単語は、オノマトペや、風俗などが目立ちます  
