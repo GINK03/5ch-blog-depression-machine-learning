@@ -72,3 +72,8 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
   <img width="180px" src="https://user-images.githubusercontent.com/4949982/36338537-539b9c18-13f5-11e8-9978-d43f015d3313.png">
 </p>
 
+とりあえず、日本語に該当するコーパスに置き換えて処理します  
+<p align="center">
+  <img width="180px" src="https://user-images.githubusercontent.com/4949982/36338560-2d85366e-13f6-11e8-924c-687807dd4b9e.png">
+</p>
+これらの語が入っていた文章に、「absolute」の特徴量を単語と並列にいれて、分類問題とします
