@@ -77,3 +77,9 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
   <img width="180px" src="https://user-images.githubusercontent.com/4949982/36338560-2d85366e-13f6-11e8-924c-687807dd4b9e.png">
 </p>
 これらの語が入っていた文章に、「これらの単語だけの分流問題と定義して」各単語の特徴量を見ていきます
+
+すると、Amebloのコーパスですが、それらしい値がでてきます。  
+(+であるほどメンヘラコーパスに近くなるので、全体的な傾向として、やはり絶対的な言葉には意味がありそうです)  
+<p align="center">
+  <img width="180px" src="https://user-images.githubusercontent.com/4949982/36338648-54e0be3e-13f8-11e8-87c3-1f2fbd353eac.png">
+</p>
