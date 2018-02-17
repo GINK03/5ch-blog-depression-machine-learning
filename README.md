@@ -68,6 +68,7 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
 
 もとの、[People with depression are more likely to say certain words](https://qz.com/1198671/depression-warning-signs-pay-attention-to-the-words-they-use/)によると、このような言葉が絶対主義的な言葉として定義されています  
 
-
-
+<p align="center">
+  <img width="400px" src="https://user-images.githubusercontent.com/4949982/36338527-d51d80e0-13f4-11e8-9a02-e93738dfa0eb.png">
+</p>
 
