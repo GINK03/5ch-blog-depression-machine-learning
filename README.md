@@ -63,4 +63,11 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
 
 とても大きな値ではではないですが、やはり自己に関する論述が多いほど、メンタルヘルスのコーパスに該当しそうです  
 
+## 絶対主義的言葉の定義
+次に、絶対主義的言葉を定義します  
+
+もとの、[People with depression are more likely to say certain words](https://qz.com/1198671/depression-warning-signs-pay-attention-to-the-words-they-use/)によると、このような言葉が絶対主義的な言葉として定義されています  
+
+
+
 
