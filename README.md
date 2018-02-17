@@ -76,4 +76,4 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
 <p align="center">
   <img width="180px" src="https://user-images.githubusercontent.com/4949982/36338560-2d85366e-13f6-11e8-924c-687807dd4b9e.png">
 </p>
-これらの語が入っていた文章に、「absolute」の特徴量を単語と並列にいれて、分類問題とします
+これらの語が入っていた文章に、「これらの単語だけの分流問題と定義して」各単語の特徴量を見ていきます
