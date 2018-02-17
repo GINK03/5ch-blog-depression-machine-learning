@@ -26,7 +26,7 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
 ## 使用するアルゴリズム
 シングルクラスSVMをsigmoidで２値判定かけてたときの重みとする  
 
-## 5chで、すべての単語で分類する場合  
+## 5chですべての単語で分類する場合  
 <p align="center">
   <img width="200px" src="https://user-images.githubusercontent.com/4949982/36071983-15c10dea-0f5b-11e8-8225-f8e8d82d08bf.png"> 
   <img width="200px" src="https://user-images.githubusercontent.com/4949982/36071997-44ac0164-0f5b-11e8-8487-0ac085257bcb.png"> 
@@ -37,3 +37,10 @@ Gigazineさんでやっていた、うつ病の人が利用しがちなボキャ
 メンヘラ板で特有な単語は、オノマトペや、風俗などが目立ちます  
 
 ## Amebloですべての単語で分離する場合
+<p align="center">
+  <img width="200px" src="https://user-images.githubusercontent.com/4949982/36337929-971aabce-13e5-11e8-9ca2-b6afbf31c899.png"> 
+</p>
+コーパスのカバレッジの影響で、ブログの投稿日時が影響していますが、具体的な病気や、痛みに弱いとか、頭痛持ちとか有り得そうです  
+
+
+
